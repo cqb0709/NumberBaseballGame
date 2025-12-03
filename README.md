@@ -84,7 +84,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/number-baseball-solver.git
+git clone https://github.com/your-username/number-baseball-solver.git](https://github.com/cqb0709/NumberBaseballGame.git
 
 # 2. Install dependencies
 pip install streamlit
